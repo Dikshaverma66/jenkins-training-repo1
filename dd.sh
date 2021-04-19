@@ -1,4 +1,4 @@
-echo "diksha verma"
+echo "diksha"
 date 
 cal
 echo "bye"
